@@ -3,7 +3,7 @@
 ## Project Overview
 ### This project demonstrates the development of an OPC UA Client that connects to an OPC UA Server (simulated locally), reads 10 dummy tags at regular intervals, and logs the data into hourly CSV files with accurate timestamps.
 
-## Installation Steps
+## Installation
 - pip install opcua
 
 ## Steps to Run the Project
